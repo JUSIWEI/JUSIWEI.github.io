@@ -4,14 +4,37 @@
 
 ## 个人简介
 
-## 研究兴趣
+本人生于庚辰年 己丑月 丙子日，性别女，家在扬州。
+
+兴趣多变，但喜欢一切美的事物
+
+<img src="D:\Libraries\JUSIWEI.github.io\images\ouzhou.jpg" style="zoom:20%;" />
+
+<img src="D:\Libraries\JUSIWEI.github.io\images\rose-729509_1920.jpg" style="zoom:25%;" />
 
 ## 未来规划
 
-![](images/猫.jpg )
+读完研究生，找份工作，在拥有自己的小窝的情况下先实现经济独立；希望能在45岁左右实现财务自由~~~
 
-![](images/云次方挠背.jpg )
+## 心情不好的时候来看看
 
+#### 图片——
 
+<img src="images/猫.jpg" style="zoom:75%;" />
+
+<img src="images/云次方挠背.jpg" style="zoom:50%;" />
+
+<img src="D:\Libraries\JUSIWEI.github.io\images\云次方｜Dear阿云嘎＆郑云龙_.jpg" style="zoom:30%;" />
+
+<img src="D:\Libraries\JUSIWEI.github.io\images\小天使.jpeg" style="zoom:25%;" />
+
+#### 视频链接——
+
+* [看看漂酿裙子](https://www.bilibili.com/video/BV1Tg4y1z7Yj)
+* [看看西装的姐姐](https://www.bilibili.com/video/BV1Ct4y1a7ZM)
+* [看看yuri的贝尔曼](https://www.bilibili.com/video/BV1ox411s7DM)
+* [看看深深](https://www.bilibili.com/video/BV18f4y1q74v)
+* [看看机医](https://www.bilibili.com/video/BV1Nz4y1f7Th)
+* 最后的最后，继续学习吧~~~
 
 Note: 这是一个演示文档。
