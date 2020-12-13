@@ -8,9 +8,9 @@
 
 兴趣多变，但喜欢一切美的事物
 
-<img src="D:\Libraries\JUSIWEI.github.io\images\ouzhou.jpg" style="zoom:20%;" />
+<img src="images/ouzhou.jpg" style="zoom:33%;" />
 
-<img src="D:\Libraries\JUSIWEI.github.io\images\rose-729509_1920.jpg" style="zoom:25%;" />
+<img src="images/rose-729509_1920.jpg" style="zoom:33%;" />
 
 ## 未来规划
 
@@ -20,13 +20,11 @@
 
 #### 图片——
 
-<img src="images/猫.jpg" style="zoom:75%;" />
-
 <img src="images/云次方挠背.jpg" style="zoom:50%;" />
 
-<img src="D:\Libraries\JUSIWEI.github.io\images\云次方｜Dear阿云嘎＆郑云龙_.jpg" style="zoom:30%;" />
+<img src="images/云次方｜Dear阿云嘎＆郑云龙_.jpg" style="zoom:25%;" />
 
-<img src="D:\Libraries\JUSIWEI.github.io\images\小天使.jpeg" style="zoom:25%;" />
+<img src="images/小天使.jpeg" style="zoom:25%;" />
 
 #### 视频链接——
 
