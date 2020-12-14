@@ -28,10 +28,10 @@
 
 #### 视频链接——
 
-* [看看漂酿裙子](https://www.bilibili.com/video/BV1Tg4y1z7Yj)
-* [看看西装的姐姐](https://www.bilibili.com/video/BV1Ct4y1a7ZM)
-* [看看yuri的贝尔曼](https://www.bilibili.com/video/BV1ox411s7DM)
-* [看看深深](https://www.bilibili.com/video/BV18f4y1q74v)
+* [看看漂酿裙子]
+* [看看西装的姐姐]
+* [看看yuri的贝尔曼]
+* [看看深深]
 * [看看机医](https://www.bilibili.com/video/BV1Nz4y1f7Th)
 * 最后的最后，继续学习吧~~~
 
