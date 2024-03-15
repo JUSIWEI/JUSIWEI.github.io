@@ -9,7 +9,7 @@
 - - - -
   * # 正经板块
   * [book on list](current-favourite/stress.md)
-  * [job search](current-favourite/job search.md)
+  * [job search](current-favourite/jobsearch.md)
 
 [Math]()
 
