@@ -4,7 +4,7 @@
 
 [Daily Meals]()
  
-  * [2024Deutschland](daily-meals/2024Deutschland/0314-0315.md)
+  * [2024Deutschland](daily-meals/03140315.md)
 
 [Current Favourite]()
 
