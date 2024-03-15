@@ -6,13 +6,12 @@
   * [2024Deutschland](daily-meals/2024Deutschland/0314-0315.md)
 
 [Current Favourite]()
-
-  *[singer](current-favourite/geshou.md)
+  * [singer](current-favourite/geshou.md)
   * [figure skating](current-favourite/figure-skating.md)
 - - - -
   * # 正经板块
   * [book on list](current-favourite/stress.md)
-  * [job search](current-favourite/job search.md)
+  * [job search](current-favourite/jobsearch.md)
 
 
 [Math]()
